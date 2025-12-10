@@ -22,9 +22,9 @@ PLEASE READ THE FOLLOWING HOSTING SERVICES TERMS AND CONDITIONS. BY SUBSCRIBING 
 
 Although this Agreement represents the primary terms and conditions of service for IX.CM Services, additional guidelines and rules are hereby incorporated by reference. You can browse all the legal documents at the following page:
 
-*   Terms of Service: https://docs.ix.cm/tos
-*   Acceptable Use Policy: https://docs.ix.cm/aup
-*   Privacy Policy: https://docs.ix.cm/privacy
+*   Terms of Service: https://docs.ix.cm/tos/
+*   Acceptable Use Policy: https://docs.ix.cm/aup/
+*   Privacy Policy: https://docs.ix.cm/privacy/
 
 ***
 

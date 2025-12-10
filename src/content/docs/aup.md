@@ -2,8 +2,7 @@
 title: Acceptable Use Policy
 ---
 
-
-**Last Updated:** December 10, 2025
+**Last update: December 10, 2025.**
 
 ---
 
@@ -133,11 +132,5 @@ Depending on the severity of the violation, IX.CM may implement:
 ## 5. No Spam; Damages
 
 IX.CM will **immediately terminate** any account which it believes, in its sole discretion, is transmitting or is otherwise connected with any spam or other unsolicited bulk email.
-
----
-
-## 6. Governing Law
-
-This AUP shall be governed by and construed in accordance with the laws of the **Hong Kong Special Administrative Region**. Any disputes arising out of or in connection with this AUP shall be subject to the exclusive jurisdiction of the courts of Hong Kong.
 
 ---
