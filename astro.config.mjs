@@ -6,19 +6,15 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Kvmcloud Network',
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Company Information',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'About Us', slug: 'about' },
+						{ label: 'Contact Information', slug: 'contact' },
+						{ label: 'Refund and Cancellation Policy', slug: 'refunds' },
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
