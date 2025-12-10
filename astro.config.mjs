@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Kvmcloud Network',
+			title: 'IX.CM',
 			// sidebar: [
 			// 	{
 			// 		label: 'Overview',
