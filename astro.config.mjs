@@ -7,16 +7,23 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Kvmcloud Network',
-			sidebar: [
-				{
-					label: 'Company Information',
-					items: [
-						{ label: 'About Us', slug: 'about' },
-						{ label: 'Contact Information', slug: 'contact' },
-						{ label: 'Refund and Cancellation Policy', slug: 'refunds' },
-					],
-				},
-			],
+			// sidebar: [
+			// 	{
+			// 		label: 'Overview',
+			// 		items: [
+			// 			'overview/getting-started'
+			// 		],
+			// 	},
+			// 	{
+			// 		label: 'Faqs',
+			// 		items: [
+			// 			'faqs/overview',
+			// 			'faqs/instance',
+
+			// 		]
+			// 	}
+			// ],
 		}),
+		
 	],
 });
